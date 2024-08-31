@@ -1,0 +1,6 @@
+h
+r
+erase
+loadfile M:\PersonalProject\MR_LIB_TEST\Test\makefile_test\build\makefile_test.hex
+r
+qc
